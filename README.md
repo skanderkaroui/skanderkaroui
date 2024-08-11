@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/skander-karoui/](https://www.linkedin.com/in/skander-karoui/)
 
-- ⚡ Fun fact **I used to produce music in high school [(check this if you want to listen to something I produced)](https://www.youtube.com/watch?v=QVftLCgGaZQ)**
+- ⚡ Fun fact **I used to produce music in high school [(check this if you want to listen to something that I produced)](https://www.youtube.com/watch?v=QVftLCgGaZQ)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
