@@ -3,17 +3,11 @@
 
 - 🚧 I’m currently building 5 AI projects with [Headstarter AI fellowship](https://headstarter.co/)
   
-- 🔭 I’ve been currently working on [auto - a conversational AI](https://github.com/skanderkaroui/auto)
+- 🔭 I’ve been working on [auto - a conversational AI](https://github.com/skanderkaroui/auto)
 
 - 🌱 I’m currently learning **Next.js, React, Speech to Text, RAG**
 
-- 👯 I’m looking to collaborate on **AI projects and research papers**
-
-- 🧑🏻‍💻 All of my projects are available at [https://skanderkaroui.github.io/](https://skanderkaroui.github.io/)
-
-- 💬 Ask me about **Computer Vision, Recommendation Systems**
-
-- 📫 How to reach me **skander.karoui@gmail.com**
+- 📫 Reach to me **skander.karoui@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/skander-karoui/](https://www.linkedin.com/in/skander-karoui/)
 
