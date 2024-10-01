@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Skander</h1>
 <h3 align="center">A passionate Software/ AI developer from Tunisia</h3>
 
-- 🚧 I’m currently building 5 AI projects with [Headstarter AI fellowship](https://headstarter.co/)
-  
 - 🔭 I’ve been working on [auto - a conversational AI](https://github.com/skanderkaroui/auto)
+
+- 🚧 I’ve recently worked on 5 projects using Next.js with [Headstarter AI fellowship](https://headstarter.co/)
 
 - 🌱 I’m currently learning **Next.js, React, Speech to Text, RAG**
 
