@@ -1,2 +1,2 @@
 - Hi 👋, I'm Skander, a passionate Software/ AI engineer from Tunisia
-- additional info <a href="https://www.skander.xyz">skander.xyz</a>
+- additional info: <a href="https://www.skander.xyz">skander.xyz</a>
