@@ -1,3 +1,2 @@
-<h1 align="center">Hi 👋, I'm Skander</h1>
-<h3 align="center">A passionate Software/ AI developer from Tunisia</h3>
-<h3 align="center">additional info <a href="https://www.skander.xyz">skander.xyz</a></h3>
+- Hi 👋, I'm Skander, a passionate Software/ AI engineer from Tunisia
+- additional info <a href="https://www.skander.xyz">skander.xyz</a>
